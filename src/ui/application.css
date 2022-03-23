@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.grid-pane-hover > *:hover{
+	-fx-background-color: grey;
+}
+
+.active-player-label{
+	-fx-text-fill: #c65252;
+	-fx-font-size: 23px;
+}
+
+.inactive-player-label{
+	-fx-text-fill: #000000;
+	-fx-font-size: 15px;
+}
